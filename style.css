@@ -1,0 +1,33 @@
+
+.a,.b,.c,.d
+{
+    width: 250px;
+    height: 120px;
+    display: inline-block;
+    margin: 10px;
+    align-items: top;
+    position: relative;
+
+}
+.e,.f,.g,.h
+{
+    width: 250px;
+    height: 120px;
+    display: inline-block;
+    margin: 10px;
+    align-items: top;
+    position: relative;
+}
+img{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+p{
+    font-size: 20PX;
+    position: absolute;
+    top:0;
+    margin: 0px;
+    background-color: black;
+    color: white;
+}
